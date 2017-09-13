@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="zaihui"
+  id="myeclipse.1493888342098"
+  context-root="/zaihui"
+  j2ee-spec="6.0"
+  archive="zaihui.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
