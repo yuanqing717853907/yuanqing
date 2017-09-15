@@ -54,7 +54,7 @@ public class MainController {
 		if (StringUtils.equals("-", gamemore)) {
 			/* 涂鸦游戏 */
 			if (StringUtils.equals("tuya", toUrl)) {
-				StepLogUtil.loginfo("用户进入tuy游戏");
+				StepLogUtil.loginfo("用户进入tuy游戏ceshi");
 				if (!(session.getAttributeNames().hasMoreElements())) {
 					if (null != Config.tuyaIdList && Config.tuyaIdList.size() > 0) {
 						/* 将id放入到session中 */
